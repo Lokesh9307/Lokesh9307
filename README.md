@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh9307&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh9307" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://lokeshumredkar002.netlify.app/](https://lokeshumredkar002.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://lokeshumredkar.vercel.app/)
 
 - 💬 Ask me about **HTML , CSS, JavaScript**
 
-- 📫 How to reach me **beastgamer9307@gmail.com**
+- 📫 How to reach me **lokeshumredkar2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
