@@ -58,6 +58,127 @@
 </div>
 
 ###
-
+<section>
+      <h1 style="color: whitesmoke; text-align: center;">Project Links</h1>
+      <div
+        style="
+          color: whitesmoke;
+          display: flex;
+          flex-wrap: wrap;
+          place-items: center;
+          justify-content: center;
+          gap: 10px;
+        "
+      >
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            border: 1px solid gainsboro;
+            width: 300px;
+            justify-content: center;
+            padding: 4px;
+            border-radius: 10px;
+          "
+        >
+          <a
+            href="https://lokeshumredkar.vercel.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            ><p style="color: whitesmoke">Portfolio website</p></a
+          >
+        </div>
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            border: 1px solid gainsboro;
+            width: 300px;
+            justify-content: center;
+            padding: 4px;
+            border-radius: 10px;
+          "
+        >
+          <a
+            href="https://developer-helper.vercel.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            ><p style="color: whitesmoke">Developer Helper</p></a
+          >
+        </div>
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            border: 1px solid gainsboro;
+            width: 300px;
+            justify-content: center;
+            padding: 4px;
+            border-radius: 10px;
+          "
+        >
+          <a
+            href="https://todoapp-lokii.netlify.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            ><p style="color: whitesmoke">To-Do web app</p></a
+          >
+        </div>
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            border: 1px solid gainsboro;
+            width: 300px;
+            justify-content: center;
+            padding: 4px;
+            border-radius: 10px;
+          "
+        >
+          <a
+            href="https://beast-media-lokesh.netlify.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            ><p style="color: whitesmoke">Youtube Clone</p></a
+          >
+        </div>
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            border: 1px solid gainsboro;
+            width: 300px;
+            justify-content: center;
+            padding: 4px;
+            border-radius: 10px;
+          "
+        >
+          <a
+            href="https://stayfit-n-strong.netlify.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            ><p style="color: whitesmoke">Fitness App</p></a
+          >
+        </div>
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            border: 1px solid gainsboro;
+            width: 300px;
+            justify-content: center;
+            padding: 4px;
+            border-radius: 10px;
+          "
+        >
+          <a
+            href="https://stayfit-n-strong.netlify.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            ><p style="color: whitesmoke">Travel App UI design</p></a
+          >
+        </div>
+      </div>
+    </section>
 
 ###
