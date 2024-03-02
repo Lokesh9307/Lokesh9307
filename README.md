@@ -75,19 +75,25 @@
           style="
             display: flex;
             place-items: center;
-            gap: 10px;
-            border: 1px solid gainsboro;
-            width: 300px;
-            justify-content: center;
-            padding: 4px;
-            border-radius: 10px;
+            gap: 5px;
+            flex-direction: column;
           "
         >
-          <a
-            href="https://lokeshumredkar.vercel.app/"
-            style="text-decoration: none; color: white; font-weight: bold"
-            ><p style="color: whitesmoke">Portfolio website</p></a
-          >
+          <div style="display: flex; place-items: center; gap: 8px">
+            <p style="color: whitesmoke">Portfolio website:</p>
+            <a
+              href="https://lokeshumredkar.vercel.app/"
+              style="text-decoration: none; color: white; font-weight: bold"
+              >Link</a
+            >
+          </div>
+          <ul>
+            <li>
+              Here I have used Nextjs framework and Tailwindcss for styling.
+            </li>
+            <li>Responsive design.</li>
+            <li>Chatbot integrated.</li>
+          </ul>
         </div>
         <div
           style="
