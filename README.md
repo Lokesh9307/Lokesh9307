@@ -61,6 +61,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lokesh9307/Lokesh9307/output/snake.svg" alt="Snake animation" />
-
 ###
