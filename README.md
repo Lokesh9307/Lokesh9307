@@ -68,6 +68,7 @@
           place-items: center;
           justify-content: center;
           gap: 10px;
+          text-decoration:none;
         "
       >
         <div
