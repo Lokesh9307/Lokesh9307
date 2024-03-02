@@ -81,11 +81,11 @@
         >
           <div style="display: flex; place-items: center; gap: 8px">
             <p style="color: whitesmoke">Portfolio website:</p>
-            <a
+            <span><a
               href="https://lokeshumredkar.vercel.app/"
               style="text-decoration: none; color: white; font-weight: bold"
               >Link</a
-            >
+            ></span>
           </div>
           <ul>
             <li>
