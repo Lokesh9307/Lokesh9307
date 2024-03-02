@@ -59,7 +59,7 @@
 
 ###
 <section>
-      <h1 style="color: whitesmoke; text-align: center;">Project Links</h1>
+      <h1 style="color: whitesmoke; text-align: center">Project Links</h1>
       <div
         style="
           color: whitesmoke;
@@ -68,7 +68,6 @@
           place-items: center;
           justify-content: center;
           gap: 10px;
-          text-decoration:none;
         "
       >
         <div
@@ -81,11 +80,11 @@
         >
           <div style="display: flex; place-items: center; gap: 8px">
             <p style="color: whitesmoke">Portfolio website:</p>
-            <span><a
+            <a
               href="https://lokeshumredkar.vercel.app/"
               style="text-decoration: none; color: white; font-weight: bold"
               >Link</a
-            ></span>
+            >
           </div>
           <ul>
             <li>
@@ -100,91 +99,129 @@
             display: flex;
             place-items: center;
             gap: 10px;
-            border: 1px solid gainsboro;
-            width: 300px;
-            justify-content: center;
-            padding: 4px;
-            border-radius: 10px;
+            flex-direction: column;
           "
         >
+        <div style="display: flex; place-items: center; gap: 8px">
+        <p style="color: whitesmoke">Developer Helper:</p>
           <a
             href="https://developer-helper.vercel.app/"
             style="text-decoration: none; color: white; font-weight: bold"
-            ><p style="color: whitesmoke">Developer Helper</p></a
+            >Link</a
           >
         </div>
+          <ul>
+            <li>
+              Here I have used Nextjs framework and Tailwindcss for styling with react-icons and Typescript.
+            </li>
+            <li>Responsive design.</li>
+            <li>Full of resources.</li>
+            <li>Can create new links.</li>
+            <li>Add favorites to cart.</li>
+            <li>Search functionality.</li>
+          </ul>
+        </div>
+
+
         <div
           style="
             display: flex;
             place-items: center;
             gap: 10px;
-            border: 1px solid gainsboro;
-            width: 300px;
-            justify-content: center;
-            padding: 4px;
-            border-radius: 10px;
+            flex-direction: column;
           "
         >
-          <a
+        <div style="display: flex; place-items: center; gap: 8px">
+            <p style="color: whitesmoke">To-Do web app</p>
+            <a
             href="https://todoapp-lokii.netlify.app/"
             style="text-decoration: none; color: white; font-weight: bold"
-            ><p style="color: whitesmoke">To-Do web app</p></a
+            >Link</a
           >
+          <ul>
+            <li>
+              Here I have used Reactjs framework and Tailwindcss for styling with react-icons.
+            </li>
+            <li>Responsive design.</li>
+            <li>User Friendly</li>
+            <li>Create, Update, Delete</li>
+          </ul>
         </div>
         <div
           style="
             display: flex;
             place-items: center;
             gap: 10px;
-            border: 1px solid gainsboro;
-            width: 300px;
-            justify-content: center;
-            padding: 4px;
-            border-radius: 10px;
+            flex-direction: column;
           "
         >
+        <div style="display: flex; place-items: center; gap: 8px">
+            <p style="color: whitesmoke">Youtube Clone</p>
           <a
             href="https://beast-media-lokesh.netlify.app/"
             style="text-decoration: none; color: white; font-weight: bold"
-            ><p style="color: whitesmoke">Youtube Clone</p></a
+            >Link</a
           >
+          </div>
+          <ul>
+            <li>
+              Here I have used Reactjs framework and Tailwindcss for styling with react-icons and Javascript.
+            </li>
+            <li>Responsive design.</li>
+            <li>Api integration from RapidApi.</li>
+          </ul>
+
+        </div>
+
+        <div
+          style="
+            display: flex;
+            place-items: center;
+            gap: 10px;
+            flex-direction: column;
+          "
+        >
+        <div style="display: flex; place-items: center; gap: 8px">
+            <p style="color: whitesmoke">Fitness App</p>
+          <a
+            href="https://stayfit-n-strong.netlify.app/"
+            style="text-decoration: none; color: white; font-weight: bold"
+            >Link</a
+          >
+        </div>
+        <ul>
+            <li>
+              Here I have used Nextjs framework and Tailwindcss for styling with react-icons and Typescript.
+            </li>
+            <li>Responsive design.</li>
+            <li>Api integration from RapidApi.</li>
+ 
+          </ul>
         </div>
         <div
           style="
             display: flex;
             place-items: center;
             gap: 10px;
-            border: 1px solid gainsboro;
-            width: 300px;
-            justify-content: center;
-            padding: 4px;
-            border-radius: 10px;
+            flex-direction: column;
           "
         >
-          <a
-            href="https://stayfit-n-strong.netlify.app/"
-            style="text-decoration: none; color: white; font-weight: bold"
-            ><p style="color: whitesmoke">Fitness App</p></a
-          >
+        <div style="display: flex; place-items: center; gap: 8px">
+            <p style="color: whitesmoke">Travel App UI design</p>
+            <a
+              href="https://hilink-travelapp.netlify.app/"
+              style="text-decoration: none; color: white; font-weight: bold"
+              ></a
+            >
         </div>
-        <div
-          style="
-            display: flex;
-            place-items: center;
-            gap: 10px;
-            border: 1px solid gainsboro;
-            width: 300px;
-            justify-content: center;
-            padding: 4px;
-            border-radius: 10px;
-          "
-        >
-          <a
-            href="https://stayfit-n-strong.netlify.app/"
-            style="text-decoration: none; color: white; font-weight: bold"
-            ><p style="color: whitesmoke">Travel App UI design</p></a
-          >
-        </div>
+        <ul>
+            <li>
+              Here I have used Reactjs framework and Tailwindcss for styling with react-icons.
+            </li>
+            <li>To show my UI skills.</li>
+            <li>Responsive design.</li>
+            <li>User friendly design.</li>
+          </ul>
       </div>
     </section>
 
