@@ -72,6 +72,7 @@
     <li>Chatbot integrated.</li>
     </ul>
     </div>
+      <hr>
     <div style="display: flex; place-items: center; gap: 10px; flex-direction: column;">
     <div style="display: flex; place-items: center; gap: 8px;">
     <h3>Developer Helper:</h3>
@@ -86,6 +87,7 @@
     <li>Search functionality.</li>
     </ul>
     </div>
+      <hr>
     <div style="display: flex; place-items: center; gap: 10px; flex-direction: column;">
     <div style="display: flex; place-items: center; gap: 8px;">
     <h3>To-Do web app</h3>
@@ -98,6 +100,7 @@
     <li>Create, Update, Delete</li>
     </ul>
     </div>
+      <hr>
     <div style="display: flex; place-items: center; gap: 10px; flex-direction: column;">
     <div style="display: flex; place-items: center; gap: 8px;">
     <h3>Youtube Clone</h3>
@@ -109,6 +112,7 @@
     <li>Api integration from RapidApi.</li>
     </ul>
     </div>
+      <hr>
     <div style="display: flex; place-items: center; gap: 10px; flex-direction: column;">
     <div style="display: flex; place-items: center; gap: 8px;">
     <h3>Fitness App</h3>
@@ -120,6 +124,7 @@
     <li>Api integration from RapidApi.</li>
     </ul>
     </div>
+      <hr>
     <div style="display: flex; place-items: center; gap: 10px; flex-direction: column;">
     <div style="display: flex; place-items: center; gap: 8px;">
     <h3>Travel App UI design</h3>
@@ -132,6 +137,7 @@
     <li>User friendly design.</li>
     </ul>
     </div>
+      <hr>
     </div>
     </section>
 
